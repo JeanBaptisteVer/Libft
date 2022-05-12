@@ -6,11 +6,11 @@
 /*   By: jvermeer <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/11/26 17:29:51 by jvermeer          #+#    #+#             */
-/*   Updated: 2022/05/10 15:20:33 by jvermeer         ###   ########.fr       */
+/*   Updated: 2022/05/12 15:00:33 by jvermeer         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../minishell.h"
+#include "libft.h"
 
 static int	len_dest(int n, size_t *p)
 {
